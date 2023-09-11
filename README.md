@@ -1,5 +1,5 @@
-# Temp_Paper
+# Test
 
-This is just a test, but may eventually hold code, data, and output prepared for this publication.
+This is just a test, but may eventually hold code, data, and output prepared for a publication.
 
 Test 1, 2
